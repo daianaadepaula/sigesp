@@ -1,0 +1,6 @@
+{
+  "name": "Cofre | Gestão de Medicamentos",
+  "description": "Prova de conceito apresentada à OMG 360 para controle de medicamentos, reposição entre filiais e recomendação de compras.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
